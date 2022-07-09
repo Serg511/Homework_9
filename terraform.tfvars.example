@@ -1,0 +1,7 @@
+pm_api_url = "proxmox_api_url"
+pm_user = "proxmox_user"
+pm_user_password = "proxmox_user_password"
+pm_host = "proxmox_host"
+template_name = "template_name"
+pm_storage = "proxmox_storage"
+ssh_key = "ssh-rsa <PUBLIC KEY> <USERNAME>"
